@@ -84,6 +84,7 @@ sso.internetat.tv # account login
 syncplusconfig.s3.amazonaws.com
 targeted-config-test.samsungacr.com
 test.samsungrm.net
+tvpnlogopus.samsungcloud.tv
 upu.samsungelectronics.com
 us-api.samsungyosemite.com
 vd.contents.prod.eu.s3.amazonaws.com
@@ -94,23 +95,3 @@ www.samsungrm.net
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 zpu.samsungelectronics.com
-#www.samsungotn.net # required for software update
-#time.samsungcloudsolution.com # if blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
-#samsungrm.net # https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
-#samsungotn.net # system update check on Samsung UE65RU7455
-#samsungosp.com
-#otnprd9.samsungcloudsolution.net # required for software update
-#otnprd8.samsungcloudsolution.net # required for software update
-#otnprd11.samsungcloudsolution.net # required for software update
-#otnprd10.samsungcloudsolution.net # required for software update
-#otn.samsungcloudcdn.com # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
-#osb-ussvc.samsungqbe.com # required for TV Plus
-#ns11.whois.co.kr # Prevents Series 7 TVs from opening YouTube
-#multiscreen.samsung.com # https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
-#lcprd1.samsungcloudsolution.net # ping test, no beaconing
-#infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
-#dev-multiscreen.samsung.com # https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
-#configprd.samsungcloudsolution.net # https://oisd.nl/excludes.php?w=configprd.samsungcloudsolution.net
-#cdn.samsungcloudsolution.com # System update check on Samsung UE40F5500
-#auth.samsungosp.com # if blocked, samsung accounts will fail to authenticate
-#acr0.samsungcloudsolution.com # https://www.reddit.com/r/oisd_blocklist/comments/m6j6fg/oisd_domain_blocklist/h3hulvq
