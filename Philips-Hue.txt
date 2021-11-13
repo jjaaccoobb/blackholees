@@ -1,0 +1,4 @@
+# Philips Hue
+data.meethue.com
+diagnostics.meethue.com
+test.huedatastore.com
