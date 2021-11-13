@@ -95,3 +95,23 @@ www.samsungrm.net
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 zpu.samsungelectronics.com
+#acr0.samsungcloudsolution.com # https://www.reddit.com/r/oisd_blocklist/comments/m6j6fg/oisd_domain_blocklist/h3hulvq
+#auth.samsungosp.com # if blocked, samsung accounts will fail to authenticate
+#cdn.samsungcloudsolution.com # System update check on Samsung UE40F5500
+#configprd.samsungcloudsolution.net # https://oisd.nl/excludes.php?w=configprd.samsungcloudsolution.net
+#dev-multiscreen.samsung.com # https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
+#infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
+#lcprd1.samsungcloudsolution.net # ping test, no beaconing
+#multiscreen.samsung.com # https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
+#ns11.whois.co.kr # Prevents Series 7 TVs from opening YouTube
+#osb-ussvc.samsungqbe.com # required for TV Plus
+#otn.samsungcloudcdn.com # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
+#otnprd10.samsungcloudsolution.net # required for software update
+#otnprd11.samsungcloudsolution.net # required for software update
+#otnprd8.samsungcloudsolution.net # required for software update
+#otnprd9.samsungcloudsolution.net # required for software update
+#samsungosp.com
+#samsungotn.net # system update check on Samsung UE65RU7455
+#samsungrm.net # https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
+#time.samsungcloudsolution.com # if blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
+#www.samsungotn.net # required for software update
