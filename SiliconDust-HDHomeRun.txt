@@ -1,0 +1,4 @@
+
+# SiliconDust HDHomeRun
+#tuner-api.hdhomerun.com # firmware updates require these, otherwise beacon
+#location-api.hdhomerun.com # firmware updates require these, otherwise beacon
